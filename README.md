@@ -1,2 +1,2 @@
-# html-dash-portfolio
+# html-portfolio
 Samet's Projects
